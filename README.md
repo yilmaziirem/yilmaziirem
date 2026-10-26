@@ -4,7 +4,7 @@ I use SQL, Excel and Tableau to clean, explore and visualize data. I'm developin
 
 ## Skills
 - **SQL (MySQL):** Data cleaning, exploratory data analysis, joins, subqueries, CTEs, window functions, temporary tables, stored procedures and triggers
-- - **Excel:** Data cleaning, PivotTables, XLOOKUP and charts
+- **Excel:** Data cleaning, PivotTables, XLOOKUP and charts
 - **Tableau:** Data visualization and dashboard development
 
 ## Education & Training
