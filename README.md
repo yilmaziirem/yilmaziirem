@@ -1,16 +1,18 @@
-## Hi there 👋
+Mathematics graduate from Marmara University, building a career in data analytics.
 
-<!--
-**yilmaziirem/yilmaziirem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use SQL, Excel and Tableau to clean, explore and visualize data. I'm developing a portfolio focused on clear analysis, meaningful questions and practical insights.
 
-Here are some ideas to get you started:
+## Skills
+- **SQL (MySQL):** Data cleaning, exploratory data analysis, joins, subqueries, CTEs, window functions, temporary tables, stored procedures and triggers
+- - **Excel:** Data cleaning, PivotTables, XLOOKUP and charts
+- **Tableau:** Data visualization and dashboard development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education & Training
+
+- Mathematics graduate — Marmara University
+- Completed Business Analysis training — BilgeAdam
+
+## Location & Languages
+
+- Based in Istanbul, Türkiye
+- Languages: Turkish and English
